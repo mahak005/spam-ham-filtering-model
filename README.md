@@ -1,10 +1,10 @@
-# SMS Spam-Ham Filtering Model
+# Spam-Ham Filtering Model
 
-A Machine Learning project that classifies SMS messages as Spam or Ham using TF-IDF vectorization and the Multinomial Naive Bayes algorithm.
+A Machine Learning project that classifies email messages as Spam or Ham using TF-IDF vectorization and the Multinomial Naive Bayes algorithm.
 
 ## Overview
 
-SMS spam messages are commonly used for unwanted advertising, fraudulent offers, and misleading promotions. This project uses Natural Language Processing (NLP) and machine learning to identify whether a text message is spam or legitimate.
+Email spam messages are commonly used for unwanted advertising, fraudulent offers, and misleading promotions. This project uses Natural Language Processing (NLP) and machine learning to identify whether a text message is spam or legitimate.
 
 The model learns patterns from labelled SMS messages and predicts the category of new messages.
 

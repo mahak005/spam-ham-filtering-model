@@ -153,8 +153,3 @@ The model correctly classified 966 ham messages and 114 spam messages in the tes
 - Develop a graphical user interface.
 - Deploy the model as a web application.
 
-## Author
-
-**Mahak**
-
-GitHub: https://github.com/mahak005
